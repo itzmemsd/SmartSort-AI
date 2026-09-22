@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.smartsort_trash/
+*.log
+
+.idea/
+.vscode/
+
+.DS_Store
+Thumbs.db
+
+.env
+.env.*
